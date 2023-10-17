@@ -28,7 +28,7 @@ Hi there, I'm **Anirudh MK**, a **Electronics and Communication Student** 🚀 f
 - 🤔 My interests are Web-development App development UI/Ux IOT and Robotics
 - 💼 I’m pursuing a Bachelor's degree in Electronics and Communication.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [its.me.anirudh.mk@gmail.com](mailto:its.me.anirudh.mk@gmail.com).
+- 📫 Email me at [its.me.anirudh.mk@gmail.com](mailto:its.me.anirudh.mk@gmail.com)
 
 **Languages and Tools:**  
 

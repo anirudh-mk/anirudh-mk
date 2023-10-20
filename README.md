@@ -39,7 +39,4 @@ Hi there, I'm **Anirudh MK**, a **Electronics and Communication Student** 🚀 f
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"></code>
 <code><img height="30" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNu5MWR03J3LFZ6b6jWyYS9SGnJ5HhqBHL1jLVwNebGZJ2TLD7mk3NTCocqCldIf2SDuE"></code>
 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-
 <img src="https://github-readme-stats.vercel.app/api?username=anirudh-mk&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Zamran's GitHub Stats">

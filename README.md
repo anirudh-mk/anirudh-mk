@@ -52,4 +52,3 @@ Currently, I'm a Community Team Member 🙍🏽‍♂️ **[GTech MuLearn](https
 <br>
 
 <img src="https://github-readme-stats.vercel.app/api?username=anirudh-mk&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Anirudh's GitHub Stats">
-

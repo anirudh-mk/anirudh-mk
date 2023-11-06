@@ -16,7 +16,6 @@
 <br><br>
 
 <img src="https://komarev.com/ghpvc/?username=anirudh-mk&color=blueviolet">
-
 <br>
 
 Hi there, <br> 

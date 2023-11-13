@@ -1,4 +1,4 @@
-<h3 style="font-family: Verdana, sans-serif;"> Hey 👋, I'm Anirudh MK!</h3>
+<h3 style="font-family: Verdana, sans-serif;"> Hey 👋, I'm Anirudh MK</h3>
 <br>
  
 <a href="https://www.linkedin.com/in/anirudh-mk/">

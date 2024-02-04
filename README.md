@@ -1,6 +1,5 @@
 <h3 style="font-family: Verdana, sans-serif;"> Hey 👋, I'm Anirudh MK</h3>
 <br>
- 
 <a href="https://www.linkedin.com/in/anirudh-mk/">
   <img align="left" alt="Anirudh's LinkdeIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
